@@ -4,6 +4,6 @@ layout: post
 
 ## test2
 
-_yay_
+xxxx의 페이지 
 
 [back](./)
