@@ -1,2 +1,2 @@
 ## PoeticSound By Numbers
-by hoonidakim <http://hoonida.com>
+by hoonidakim <https://hoonida.com>
